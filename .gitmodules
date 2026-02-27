@@ -1,0 +1,36 @@
+[submodule "api-tokyo"]
+	path = api-tokyo
+	url = https://github.com/james-goodman-tng/api-tokyo.git
+[submodule "api-london"]
+	path = api-london
+	url = https://github.com/james-goodman-tng/api-london.git
+[submodule "api-newyork"]
+	path = api-newyork
+	url = https://github.com/james-goodman-tng/api-newyork.git
+[submodule "api-sydney"]
+	path = api-sydney
+	url = https://github.com/james-goodman-tng/api-sydney.git
+[submodule "api-mumbai"]
+	path = api-mumbai
+	url = https://github.com/james-goodman-tng/api-mumbai.git
+[submodule "fe-tokyo"]
+	path = fe-tokyo
+	url = https://github.com/james-goodman-tng/fe-tokyo.git
+[submodule "fe-london"]
+	path = fe-london
+	url = https://github.com/james-goodman-tng/fe-london.git
+[submodule "fe-newyork"]
+	path = fe-newyork
+	url = https://github.com/james-goodman-tng/fe-newyork.git
+[submodule "fe-sydney"]
+	path = fe-sydney
+	url = https://github.com/james-goodman-tng/fe-sydney.git
+[submodule "fe-mumbai"]
+	path = fe-mumbai
+	url = https://github.com/james-goodman-tng/fe-mumbai.git
+[submodule "fe-master"]
+	path = fe-master
+	url = https://github.com/james-goodman-tng/fe-master.git
+[submodule "clock-orchestration"]
+	path = clock-orchestration
+	url = https://github.com/james-goodman-tng/clock-orchestration.git
